@@ -1,0 +1,5 @@
+Time: 2023-04-19 23:01:48
+Queue size: 500
+Importance percentage: 1: 100% 
+Queue size: 7.84375KB
+Maximal time distance: 0 seconds
